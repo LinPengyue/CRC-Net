@@ -1,2 +1,2 @@
 # EveCLIP
-Code for paper "Exploring Everything in CLIP to Enhance Weakly Supervised Visual Grounding"
+Code for paper " Weakly Supervised Visual Grounding for Exploring Contrastive Language-Image Pre-training Model"

@@ -1,2 +1,2 @@
-# EveCLIP
-Code for paper " Weakly Supervised Visual Grounding for Exploring Contrastive Language-Image Pre-training Model"
+#CRC-Net
+Our Code is coming soon
